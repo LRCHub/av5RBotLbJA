@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バックドラフト",
+  "base_artist": "MILGRAM フータ (CV: ランズベリー・アーサー)",
+  "createdAt": "2026-03-31T10:45:51.116104Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バックドラフト",
+      "artist": "MILGRAM フータ (CV: ランズベリー・アーサー)",
+      "has_synced": false,
+      "path": "select/pl_01_バックドラフト_MILGRAM_フータ_(CV__ランズベリー・アーサー).txt"
+    }
+  ]
+}
